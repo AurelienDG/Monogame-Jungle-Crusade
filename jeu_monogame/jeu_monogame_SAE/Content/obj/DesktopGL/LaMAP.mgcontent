@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Dev_Sae/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/LaMAP.tmx</SourceFile>
+  <SourceTime>2022-01-26T05:11:08+01:00</SourceTime>
+  <DestFile>E:/Dev_Sae/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/LaMAP.xnb</DestFile>
+  <DestTime>2022-01-26T14:06:40+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2022-01-26T05:10:58+01:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2022-01-26T05:10:58+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>E:/Dev_Sae/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/jungle tileset_0.xnb</string>
+    <string>E:/Dev_Sae/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/fond_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

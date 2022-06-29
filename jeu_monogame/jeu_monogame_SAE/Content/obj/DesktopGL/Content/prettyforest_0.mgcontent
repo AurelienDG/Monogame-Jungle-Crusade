@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/prettyforest.png</SourceFile>
+  <SourceTime>2022-01-26T05:11:08+01:00</SourceTime>
+  <DestFile>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/prettyforest_0.xnb</DestFile>
+  <DestTime>2022-02-08T21:16:09.0416775+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

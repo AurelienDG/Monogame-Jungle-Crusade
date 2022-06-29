@@ -1,0 +1,19 @@
+{
+  "textureAtlas": {
+    "texture": "epee.png",
+    "regionWidth": 130,
+    "regionHeight": 130
+  },
+  "cycles": {
+    "attack": {
+      "frames": [0,1],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "void": {
+      "frames": [2],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>P:/INFO/R1_01_InitiationDeev_C#/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/map2.tmx</SourceFile>
+  <SourceTime>2022-01-12T15:03:52.7333243+01:00</SourceTime>
+  <DestFile>P:/INFO/R1_01_InitiationDeev_C#/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/map2.xnb</DestFile>
+  <DestTime>2022-01-12T15:03:57.0305221+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-29T19:17:30+02:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-29T19:17:30+02:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>P:/INFO/R1_01_InitiationDeev_C#/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/background_0.xnb</string>
+    <string>P:/INFO/R1_01_InitiationDeev_C#/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/background2_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

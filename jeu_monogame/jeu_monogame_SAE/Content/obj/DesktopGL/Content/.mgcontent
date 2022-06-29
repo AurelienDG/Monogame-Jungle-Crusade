@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/accueilv2.tmx</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/coeur.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/epee.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/fond.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/Font.spritefont</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/gameover.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/gameover.tmx</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/jungle tileset.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/labat.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/LaMAP.tmx</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/LaMAP2.tmx</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/LePerso.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/Open.mp3</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/pangolin.png</File>
+    <File>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/Victory.tmx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

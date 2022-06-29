@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/Victory.tmx</SourceFile>
+  <SourceTime>2022-01-26T14:04:34+01:00</SourceTime>
+  <DestFile>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/Victory.xnb</DestFile>
+  <DestTime>2022-02-08T21:16:09.2802078+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2022-01-26T05:10:58+01:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2022-01-26T05:10:58+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/prettyforest_0.xnb</string>
+    <string>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/youWin_0.xnb</string>
+    <string>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/replay_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

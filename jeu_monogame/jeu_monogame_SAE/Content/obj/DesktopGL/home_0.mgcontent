@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/jeu_monogame_SAE5.0/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/home.png</SourceFile>
+  <SourceTime>2022-01-26T03:24:35.4227865+01:00</SourceTime>
+  <DestFile>D:/jeu_monogame_SAE5.0/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/bin/DesktopGL/home_0.xnb</DestFile>
+  <DestTime>2022-01-26T03:31:44.2405836+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

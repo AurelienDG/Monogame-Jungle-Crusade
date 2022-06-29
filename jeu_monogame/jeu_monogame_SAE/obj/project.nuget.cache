@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fjCZBIg/Lmt0aUxdUZEww27H12OoqNj33pLmAEZyetf+1wYMN6mCkgRhK7qL/YClSJ6welgqHyBawrUB+50wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerem\\Desktop\\cours but\\cours\\SAE\\SAE1.01 SAE1.02 final\\TP13_PELLISSIER_LADRETTE_DE GABAÏ\\Sources\\jeu_monogame_SAE9.0\\jeu_monogame_SAE9.0\\jeu_monogame_SAE9.0\\jeu_monogame_SAE\\jeu_monogame_SAE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\monogame.extended.content.pipeline\\3.8.0\\monogame.extended.content.pipeline.3.8.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\monogame.extended.graphics\\3.8.0\\monogame.extended.graphics.3.8.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\monogame.extended.tiled\\3.8.0\\monogame.extended.tiled.3.8.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

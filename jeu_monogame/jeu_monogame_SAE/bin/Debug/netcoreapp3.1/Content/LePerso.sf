@@ -1,0 +1,59 @@
+{
+  "textureAtlas": {
+    "texture": "LePerso.png",
+    "regionWidth": 46,
+    "regionHeight": 72
+  },
+  "cycles": {
+    "idleright": {
+      "frames": [0,1,2,3,4,5,6,7,8,9,12,13],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "idleleft": {
+      "frames": [57,56,55,54,53,52,51,50,49,48,59,58],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "runleft": {
+      "frames": [43,42,41,40,39,38,37,36],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "runright": {
+      "frames": [24,25,26,27,28,29,30,31],
+      "isLooping": false,
+      "frameDuration": 0.1
+    },
+    "fallright": {
+      "frames": [14,15],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "fallleft": {
+      "frames": [17,18],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "jumpright": {
+      "frames": [16],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "jumpleft": {
+      "frames": [19],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "hitright": {
+      "frames": [20,0],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "hitleft": {
+      "frames": [21,48],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

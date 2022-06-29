@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/jerem/Desktop/JEU/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/gameover2.png</SourceFile>
+  <SourceTime>2022-01-13T20:06:19.7629971+01:00</SourceTime>
+  <DestFile>C:/Users/jerem/Desktop/JEU/jeu_monogame_SAE3.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/gameover2_0.xnb</DestFile>
+  <DestTime>2022-01-13T20:09:03.0343605+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

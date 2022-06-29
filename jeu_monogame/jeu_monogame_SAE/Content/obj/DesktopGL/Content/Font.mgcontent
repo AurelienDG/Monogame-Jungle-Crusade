@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/Font.spritefont</SourceFile>
+  <SourceTime>2022-01-26T05:11:06+01:00</SourceTime>
+  <DestFile>C:/Users/jerem/Desktop/cours but/cours/SAE/SAE1.01 SAE1.02 final/TP13_PELLISSIER_LADRETTE_DE GABAÏ/Sources/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE9.0/jeu_monogame_SAE/Content/bin/DesktopGL/Content/Font.xnb</DestFile>
+  <DestTime>2022-02-08T21:15:51.0730352+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
